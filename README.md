@@ -1,8 +1,8 @@
-# And3rson's part library
+# And3rson's parts library (KiCad/FreeCAD)
 
 I've created those while building my single-board computers and decided to publish it all because:
 
-- It will be easier for me to share them between multiple builds
+- It will be easier for me to share them between across projects
 - Some people might find them helpful
 
 ## Symbols
