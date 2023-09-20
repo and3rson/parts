@@ -10,7 +10,7 @@ I've created those while building my single-board computers and decided to publi
 | Image | Symbol name | Description |
 | --- | --- | --- |
 | ![](./images/symbols/74hc00_1.png) | 74hc00 | Small NAND gate (to save sheet space) |
-| ![](./images/symbols/74hc14_1.png) | 74hc14_small | Small Schmitt inverter gate (to save sheet space) |
+| ![](./images/symbols/74hc14_small_1.png) | 74hc14_small | Small Schmitt inverter gate (to save sheet space) |
 | ![](./images/symbols/cxo_dip-8-14.png) | cxo_dip-8-14 | Combined symbol for using both DIP-8 and DIP-14 crystal oscillators interchangeably |
 | ![](./images/symbols/esp-01.png) | esp-01 | ESP-8266 (ESP-01) |
 | ![](./images/symbols/esp-01-v2.png) | esp-01-v2 | ESP-8266 (ESP-01), alternative symbol |
