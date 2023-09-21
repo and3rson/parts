@@ -24,7 +24,7 @@ I've created those while building my single-board computers and decided to publi
 | Image | Footprint name | Description |
 | --- | --- | --- |
 | ![](./images/footprints/BatteryHolder_CR2032.png) | BatteryHolder_CR2032 | |
-| ![](./images/footprints/ESP-01.png) | ESP-01 | |
+| ![](./images/footprints/ESP-01.png) | ESP-01 | There are various ways to number ESP-01 pins, but I prefer the JEDEC way of treating GND as pin 4 and VCC as pin 8 |
 | ![](./images/footprints/LCD24064.png) | LCD24064 | T6963C-based 240x64 LCD with character mode - I use it as 40x08 display (<https://www.aliexpress.com/item/1005003750084723.html>) |
 | ![](./images/footprints/LCD24064_silk.png) | LCD24064 | Visual-only version of above footprint |
 | ![](./images/footprints/MicroSD-Adapter.png) | MicroSD-Adapter | Commonly available microSD adapter with level shifter for 5V SPI operation |
