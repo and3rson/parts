@@ -8,7 +8,7 @@ I've created those while building my single-board computers and decided to publi
 ## Symbols
 
 | Image | Library | Symbol name | Description |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | ![](./images/symbols/74hc00_1.png) | my | 74hc00 | Small NAND gate (to save sheet space) |
 | ![](./images/symbols/74hc14_small_1.png) | my | 74hc14_small | Small Schmitt inverter gate (to save sheet space) |
 | ![](./images/symbols/cxo_dip-8-14.png) | my | cxo_dip-8-14 | Combined symbol for using both DIP-8 and DIP-14 crystal oscillators interchangeably |
