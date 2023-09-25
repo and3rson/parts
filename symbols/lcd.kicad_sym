@@ -6,7 +6,7 @@
     (property "Value" "" (at -5.08 -12.7 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "my:2004A-OLED" (at -5.08 -12.7 0)
+    (property "Footprint" "footprints:2004A-OLED" (at -5.08 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at -5.08 -12.7 0)
