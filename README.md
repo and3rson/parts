@@ -18,7 +18,7 @@ I've created those while building my single-board computers and decided to publi
 | ![](./images/symbols/gal22v10.png) | my | gal22v10 | GAL22V10 (compatible with ATF22V10) |
 | ![](./images/symbols/smalljumper.png) | my | smalljumper | Small jumper (to save sheet space) |
 | ![](./images/symbols/sw_push_dpdt_r.png) | my | sw_push_dpdt_r | DPDT switch |
-| ![](./images/symbols/2004a-oled.png) | lcd | 2004A-OLED | HD44780-compatible OLED 20x04 OLED character display (<https://www.aliexpress.com/item/32620002089.html>) |
+| ![](./images/symbols/2004a-oled.png) | lcd | 2004A-OLED | HD44780-compatible OLED 20x04 OLED character display (<https://www.aliexpress.com/item/32620002089.html>, <https://www.telerex-europe.com/content/files/pdfs/productPdfs/WS/OLED/WEH002004AWPP5N00000.pdf>, <https://cdn-shop.adafruit.com/datasheets/WS0010.pdf>) |
 
 ## Footprints
 
@@ -28,7 +28,7 @@ I've created those while building my single-board computers and decided to publi
 | ![](./images/footprints/ESP-01.png) | ESP-01 | There are various ways to number ESP-01 pins, but I prefer the JEDEC way of treating GND as pin 4 and VCC as pin 8 |
 | ![](./images/footprints/LCD24064.png) | LCD24064 | T6963C-based 240x64 LCD with character mode - I use it as 40x08 display (<https://www.aliexpress.com/item/1005003750084723.html>) |
 | ![](./images/footprints/LCD24064_silk.png) | LCD24064 | Visual-only version of above footprint |
-| ![](./images/footprints/2004A-OLED.png) | 2004A-OLED | HD44780-compatible OLED 20x04 OLED character display (<https://www.aliexpress.com/item/32620002089.html>) |
+| ![](./images/footprints/2004A-OLED.png) | 2004A-OLED | HD44780-compatible OLED 20x04 OLED character display (<https://www.aliexpress.com/item/32620002089.html>, <https://www.telerex-europe.com/content/files/pdfs/productPdfs/WS/OLED/WEH002004AWPP5N00000.pdf>, <https://cdn-shop.adafruit.com/datasheets/WS0010.pdf>) |
 | ![](./images/footprints/MicroSD-Adapter.png) | MicroSD-Adapter | Commonly available microSD adapter with level shifter for 5V SPI operation |
 | ![](./images/footprints/Oscillator_DIP-8-14.png) | Oscillator_DIP-8-14 | Allows to use both DIP-8 and DIP-14 crystal oscillators |
 
