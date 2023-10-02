@@ -9,7 +9,10 @@
     (property "Footprint" "footprints:2004A-OLED" (at -5.08 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at -5.08 -12.7 0)
+    (property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS0010.pdf" (at -5.08 -12.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "HD44780-compatible OLED 20x04 OLED character display (https://www.aliexpress.com/item/32620002089.html, <https://www.telerex-europe.com/content/files/pdfs/productPdfs/WS/OLED/WEH002004AWPP5N00000.pdf)" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "2004A-OLED_1_1"
