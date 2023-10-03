@@ -9,6 +9,14 @@ This listing was generated with [kicad-storybook](https://github.com/and3rson/ki
 
 # Symbols
 
+## 82xx.kicad_sym
+
+| Image | Symbol name | Datasheet | Description |
+| --- | --- | --- | --- |
+![16550](images/82xx.kicad_sym/16550.png) | 16550 |  | None
+![8251](images/82xx.kicad_sym/8251.png) | 8251 | http://www.sycelectronica.com.ar/semiconductores/82C51.pdf | None
+![8279](images/82xx.kicad_sym/8279.png) | 8279 | https://redirect.cs.umbc.edu/courses/undergraduate/CMPE310/Fall06/cpatel2/data_sheets/8279.pdf | None
+
 ## my.kicad_sym
 
 | Image | Symbol name | Datasheet | Description |
@@ -33,6 +41,7 @@ This listing was generated with [kicad-storybook](https://github.com/and3rson/ki
 | Image | Symbol name | Datasheet | Description |
 | --- | --- | --- | --- |
 ![2004A-OLED](images/lcd.kicad_sym/2004a-oled.png) | 2004A-OLED | https://cdn-shop.adafruit.com/datasheets/WS0010.pdf | HD44780-compatible OLED 20x04 OLED character display (https://www.aliexpress.com/item/32620002089.html, <https://www.telerex-europe.com/content/files/pdfs/productPdfs/WS/OLED/WEH002004AWPP5N00000.pdf)
+![24064-LCD](images/lcd.kicad_sym/24064-lcd.png) | 24064-LCD | https://www.sparkfun.com/datasheets/LCD/Monochrome/Datasheet-T6963C.pdf | None
 
 # Footprints
 
