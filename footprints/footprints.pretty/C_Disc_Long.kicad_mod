@@ -1,6 +1,6 @@
 (footprint "C_Disc_Long" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
+  (descr "Ceramic capacitor with bent legs (long distance)")
   (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
   (attr through_hole)
   (fp_text reference "REF**" (at 6.35 -2.05) (layer "F.SilkS")

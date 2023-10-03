@@ -1,4 +1,4 @@
-all:
-	make -C ./symbols
-	make -C ./footprints.pretty
-	make -C ./images
+README.md:
+	kicad-storybook ./symbols/ ./footprints/ ./images/ ./LISTING.md
+	cat .templates/README.md | LISTING=`cat LISTING.md` envsubst > README.md
+	rm -f LISTING.md

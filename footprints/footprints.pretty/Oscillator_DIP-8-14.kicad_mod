@@ -1,5 +1,6 @@
 (footprint "Oscillator_DIP-8-14" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "DIP-8 / DIP-14 crystal oscillator footprint")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.1)))

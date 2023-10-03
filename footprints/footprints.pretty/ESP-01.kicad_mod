@@ -1,5 +1,6 @@
 (footprint "ESP-01" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "ESP-01 (ESP-8266). There are various ways to number ESP-01 pins, but I prefer the JEDEC way of treating GND as pin 4 and VCC as pin 8")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -4.27 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.1)))

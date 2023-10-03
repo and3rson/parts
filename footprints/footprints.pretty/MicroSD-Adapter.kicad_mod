@@ -1,5 +1,6 @@
 (footprint "MicroSD-Adapter" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "MicroSD SPI adapter")
   (attr through_hole)
   (fp_text reference "REF**" (at 2.54 1.27 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.1)))

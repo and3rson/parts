@@ -1,5 +1,6 @@
 (footprint "C_Disc_VeryLong" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (descr "Ceramic capacitor with bent legs (very long distance!)")
   (attr through_hole)
   (fp_text reference "REF**" (at 7.62 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.1)))
