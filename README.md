@@ -17,6 +17,13 @@ This listing was generated with [kicad-storybook](https://github.com/and3rson/ki
 ![8251](images/82xx.kicad_sym/8251.png) | 8251 | http://www.sycelectronica.com.ar/semiconductores/82C51.pdf | None
 ![8279](images/82xx.kicad_sym/8279.png) | 8279 | https://redirect.cs.umbc.edu/courses/undergraduate/CMPE310/Fall06/cpatel2/data_sheets/8279.pdf | None
 
+## lcd.kicad_sym
+
+| Image | Symbol name | Datasheet | Description |
+| --- | --- | --- | --- |
+![2004A-OLED](images/lcd.kicad_sym/2004a-oled.png) | 2004A-OLED | https://cdn-shop.adafruit.com/datasheets/WS0010.pdf | HD44780-compatible OLED 20x04 OLED character display (https://www.aliexpress.com/item/32620002089.html, <https://www.telerex-europe.com/content/files/pdfs/productPdfs/WS/OLED/WEH002004AWPP5N00000.pdf)
+![24064-LCD](images/lcd.kicad_sym/24064-lcd.png) | 24064-LCD | https://www.sparkfun.com/datasheets/LCD/Monochrome/Datasheet-T6963C.pdf | None
+
 ## my.kicad_sym
 
 | Image | Symbol name | Datasheet | Description |
@@ -36,30 +43,23 @@ This listing was generated with [kicad-storybook](https://github.com/and3rson/ki
 ![74HC00](images/74hc00_small.kicad_sym/74hc00_1.png) | 74HC00 | http://www.ti.com/lit/gpn/sn74hc00 | Small NAND gate (to save sheet space)
 ![74HC14_small](images/74hc00_small.kicad_sym/74hc14_small_1.png) | 74HC14_small | http://www.ti.com/lit/gpn/sn74HC14 | Small Schmitt inverter gate (to save sheet space)
 
-## lcd.kicad_sym
-
-| Image | Symbol name | Datasheet | Description |
-| --- | --- | --- | --- |
-![2004A-OLED](images/lcd.kicad_sym/2004a-oled.png) | 2004A-OLED | https://cdn-shop.adafruit.com/datasheets/WS0010.pdf | HD44780-compatible OLED 20x04 OLED character display (https://www.aliexpress.com/item/32620002089.html, <https://www.telerex-europe.com/content/files/pdfs/productPdfs/WS/OLED/WEH002004AWPP5N00000.pdf)
-![24064-LCD](images/lcd.kicad_sym/24064-lcd.png) | 24064-LCD | https://www.sparkfun.com/datasheets/LCD/Monochrome/Datasheet-T6963C.pdf | None
-
 # Footprints
 
 ## footprints.pretty
 
 | Image | Footprint name | Description |
 | --- | --- | --- |
-![ESP-01](images/footprints.pretty/ESP-01.png) | ESP-01 | ESP-01 (ESP-8266). There are various ways to number ESP-01 pins, but I prefer the JEDEC way of treating GND as pin 4 and VCC as pin 8
-![LCD24064](images/footprints.pretty/LCD24064.png) | LCD24064 | https://www.aliexpress.com/item/1005003750084723.html
-![MicroSD-Adapter](images/footprints.pretty/MicroSD-Adapter.png) | MicroSD-Adapter | MicroSD SPI adapter
-![C_Disc_Long](images/footprints.pretty/C_Disc_Long.png) | C_Disc_Long | Ceramic capacitor with bent legs (long distance)
-![2004A-OLED](images/footprints.pretty/2004A-OLED.png) | 2004A-OLED | 2004A OLED (https://www.aliexpress.com/item/32620002089.html)
-![LCD24064_silk](images/footprints.pretty/LCD24064_silk.png) | LCD24064_silk | https://www.aliexpress.com/item/1005003750084723.html
-![C_Disc_Medium](images/footprints.pretty/C_Disc_Medium.png) | C_Disc_Medium | Ceramic capacitor with bent legs (medium distance)
-![Oscillator_DIP-8-14](images/footprints.pretty/Oscillator_DIP-8-14.png) | Oscillator_DIP-8-14 | DIP-8 / DIP-14 crystal oscillator footprint
 ![BatteryHolder_CR2032](images/footprints.pretty/BatteryHolder_CR2032.png) | BatteryHolder_CR2032 | Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148
-![ZIF28](images/footprints.pretty/ZIF28.png) | ZIF28 | 3M 28-pin zero insertion force socket, through-hole, row spacing 15.24 mm (600 mils), http://multimedia.3m.com/mws/media/494546O/3mtm-dip-sockets-100-2-54-mm-ts0365.pdf
+![LCD24064](images/footprints.pretty/LCD24064.png) | LCD24064 | https://www.aliexpress.com/item/1005003750084723.html
+![C_Disc_Medium](images/footprints.pretty/C_Disc_Medium.png) | C_Disc_Medium | Ceramic capacitor with bent legs (medium distance)
 ![C_Disc_VeryLong](images/footprints.pretty/C_Disc_VeryLong.png) | C_Disc_VeryLong | Ceramic capacitor with bent legs (very long distance!)
+![LCD24064_silk](images/footprints.pretty/LCD24064_silk.png) | LCD24064_silk | https://www.aliexpress.com/item/1005003750084723.html
+![ESP-01](images/footprints.pretty/ESP-01.png) | ESP-01 | ESP-01 (ESP-8266). There are various ways to number ESP-01 pins, but I prefer the JEDEC way of treating GND as pin 4 and VCC as pin 8
+![Oscillator_DIP-8-14](images/footprints.pretty/Oscillator_DIP-8-14.png) | Oscillator_DIP-8-14 | DIP-8 / DIP-14 crystal oscillator footprint
+![2004A-OLED](images/footprints.pretty/2004A-OLED.png) | 2004A-OLED | 2004A OLED (https://www.aliexpress.com/item/32620002089.html)
+![MicroSD-Adapter](images/footprints.pretty/MicroSD-Adapter.png) | MicroSD-Adapter | MicroSD SPI adapter
+![ZIF28](images/footprints.pretty/ZIF28.png) | ZIF28 | 3M 28-pin zero insertion force socket, through-hole, row spacing 15.24 mm (600 mils), http://multimedia.3m.com/mws/media/494546O/3mtm-dip-sockets-100-2-54-mm-ts0365.pdf
+![C_Disc_Long](images/footprints.pretty/C_Disc_Long.png) | C_Disc_Long | Ceramic capacitor with bent legs (long distance)
 
 # 3D models
 
